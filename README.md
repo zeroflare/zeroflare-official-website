@@ -98,9 +98,8 @@ MIT License - 詳見 [LICENSE](LICENSE) 檔案
 
 ## 聯絡資訊
 
-- Email: contact@zeroflare.com
-- 電話: +886-2-1234-5678
+- 信箱：contact@zeroflare.tw
 
 ---
 
-© 2025 零曜科技 Zeroflare. All rights reserved.
+© 2026 零曜科技有限公司 Zeroflare Technology Co., Ltd. All rights reserved.
